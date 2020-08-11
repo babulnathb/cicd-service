@@ -24,7 +24,7 @@ steps:
   
 substitutions:
     #GCP Specific configuration. Please DON'T change anything
-    _PROJECT: afable-tangent-282111
+    _PROJECT: affable-tangent-282111
     _ZONE: us-central1-c
     _GKE_CLUSTER: caliva
     
